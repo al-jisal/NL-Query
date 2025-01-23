@@ -1,0 +1,22 @@
+[
+    {
+        "alum_id": 1, "first_name": "David", "last_name": "Beckham", "initial": " ",
+        "username": "ham_man", "email": "D.Beckham@soccer.edu", "password_hash": "password"
+    },
+    {
+        "alum_id": 2, "first_name": "Luis", "last_name": "Figo", "initial": " ",
+        "username": "figo", "email": "L.Figo@soccer.edu", "password_hash": "password"
+    },
+    {
+        "alum_id": 3, "first_name": "Ronaldinho", "last_name": "Gaucho", "initial": " ",
+        "username": "magician", "email": "R.Gaucho@soccer.edu", "password_hash": "password"
+    },
+    {
+        "alum_id": 4, "first_name": "Manuel", "last_name": "Neuer", "initial": " ",
+        "username": "spider", "email": "M.Neuer@soccer.edu", "password_hash": "password"
+    },
+    {
+        "alum_id": 5, "first_name": "Paolo", "last_name": "Maldini", "initial": " ",
+        "username": "greatWALL", "email": "P.Maldini@soccer.edu", "password_hash": "password"
+    }
+]

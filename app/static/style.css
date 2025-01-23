@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+#container {
+    flex: 1; /* Ensures the container takes up the remaining space */
+    padding: 30px;
+    padding-top: 10px;
+}
+form {
+    margin-top: auto; /* Pushes the form to the bottom */
+    padding: 30px; 
+    background-color: #f8f9fa;
+}

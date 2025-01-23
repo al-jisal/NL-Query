@@ -1,0 +1,110 @@
+[
+    {
+        "student_id": 1, "first_name": "Andres", "last_name": "Iniesta", "initial": " ",
+        "username": "wind", "email": "A.Iniesta@socer.edu", "password_hash": "password", "mentor": 1
+    },
+    {
+        "student_id": 2, "first_name": "Luca", "last_name": "Modric", "initial": " ",
+        "username": "game_changer", "email": "L.Modric@soccer.edu", "password_hash": "password", "mentor": 1
+    },
+    {
+        "student_id": 3, "first_name": "Jude", "last_name": "Bellingham", "initial": " ",
+        "username": "5_star", "email": "J.Bellingham@soccer.edu", "password_hash": "password", "mentor": 1
+    },
+    {
+        "student_id": 4, "first_name": "Frank", "last_name": "Lampard", "initial": " ",
+        "username": "blast", "email": "F.Lampard@soccer.edu", "password_hash": "password", "mentor": 1
+    },
+    {
+        "student_id": 5, "first_name": "Steven", "last_name": "Gerrard", "initial": " ",
+        "username": "captain_fantastic", "email": "S.Gerrard@soccer.edu", "password_hash": "password", "mentor": 1
+    },
+
+
+    {
+        "student_id": 6, "first_name": "Frank", "last_name": "Ribery", "initial": " ",
+        "username": "flash", "email": "F.Ribery@soccer.edu", "password_hash": "password", "mentor": 2
+    },
+    {
+        "student_id": 7, "first_name": "Vinicius", "last_name": "Junior", "initial": " ",
+        "username": "face_it", "email": "V.Junior@soccer.edu", "password_hash": "password", "mentor": 2
+    },
+    {
+        "student_id": 8, "first_name": "Cristiano", "last_name": "Ronaldo", "initial": " ",
+        "username": "CR7_suuuiii", "email": "C.Ronaldo@soccer.edu", "password_hash": "password", "mentor": 2
+    },
+    {
+        "student_id": 9, "first_name": "Angel", "last_name": "Maria", "initial": "D",
+        "username": "puzzle_solver", "email": "A.Maria@soccer.edu", "password_hash": "password", "mentor": 2
+    },
+    {
+        "student_id": 10, "first_name": "Arjen", "last_name": "Roben", "initial": " ",
+        "username": "big_roben", "email": "A.Roben@soccer.edu", "password_hash": "password", "mentor": 2
+    },
+
+
+    {
+        "student_id": 11, "first_name": "Lionel", "last_name": "Messi", "initial": " ",
+        "username": "GOAT", "email": "L.Messi@soccer.edu", "password_hash": "password", "mentor": 3
+    },
+    {
+        "student_id": 12, "first_name": "Neymar", "last_name": "Junior", "initial": " ",
+        "username": "prince", "email": "N.Junior@soccer.edu", "password_hash": "password", "mentor": 3
+    },
+    {
+        "student_id": 13, "first_name": "Lamine", "last_name": "Yamal", "initial": " ",
+        "username": "emerging_king", "email": "L.Yamal@soccer.edu", "password_hash": "password", "mentor": 3
+    },
+    {
+        "student_id": 14, "first_name": "Thierry", "last_name": "Henry", "initial": " ",
+        "username": "invincible", "email": "T.Henry@soccer.edu", "password_hash": "password", "mentor": 3
+    },
+    {
+        "student_id": 15, "first_name": "Zlatan", "last_name": "Ibrahimovic", "initial": " ",
+        "username": "god_of_the_game", "email": "Z.Ibrahimovic@soccer.edu", "password_hash": "password", "mentor": 3
+    },
+
+
+    {
+        "student_id": 16, "first_name": "Aaron", "last_name": "Ramsdale", "initial": " ",
+        "username": "rambo", "email": "A.Ramsdale@soccer.edu", "password_hash": "password", "mentor": 4
+    },
+    {
+        "student_id": 17, "first_name": "Emiliano", "last_name": "Martinez", "initial": " ",
+        "username": "dibu", "email": "E.Martinez@soccer.edu", "password_hash": "password", "mentor": 4
+    },
+    {
+        "student_id": 18, "first_name": "Iker", "last_name": "Casillas", "initial": " ",
+        "username": "the_difference", "email": "I.Casillas@soccer.edu", "password_hash": "password", "mentor": 4
+    },
+    {
+        "student_id": 19, "first_name": "Alison", "last_name": "Becker", "initial": " ",
+        "username": "feet_works", "email": "A.Becker@soccer.edu", "password_hash": "password", "mentor": 4
+    },
+    {
+        "student_id": 20, "first_name": "David", "last_name": "Raya", "initial": " ",
+        "username": "believe", "email": "D.Raya@soccer.edu", "password_hash": "password", "mentor": 4
+    },
+
+
+    {
+        "student_id": 21, "first_name": "John", "last_name": "Terry", "initial": " ",
+        "username": "rocket", "email": "J.Terry@soccer.edu", "password_hash": "password", "mentor": 5
+    },
+    {
+        "student_id": 22, "first_name": "Sergio", "last_name": "Ramos", "initial": " ",
+        "username": "bully_of_the_big_boys", "email": "S.Ramos@soccer.edu", "password_hash": "password", "mentor": 5
+    },
+    {
+        "student_id": 23, "first_name": "Giorgio", "last_name": "Chiellini", "initial": " ",
+        "username": "italy_finest", "email": "G.Chiellini@soccer.edu", "password_hash": "password", "mentor": 5
+    },
+    {
+        "student_id": 24, "first_name": "Dani", "last_name": "Alves", "initial": " ",
+        "username": "big_stepper", "email": "D.Alves@soccer.edu", "password_hash": "password", "mentor": 5
+    },
+    {
+        "student_id": 25, "first_name": "Roberto", "last_name": "Carlos", "initial": " ",
+        "username": "fire", "email": "R.Carlos@soccer.edu", "password_hash": "password", "mentor": 5
+    }
+]

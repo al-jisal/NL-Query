@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Ignore configuration files containing sensitive data
+config.py
+
+# SQLAlchemy database files (if using SQLite)
+*.sqlite3
+*.db
+
+# IDE files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Temporary files
+*.log
+*.tmp
+
+# macOS specific files
+.DS_Store
